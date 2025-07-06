@@ -1,1 +1,1 @@
-# Taximeter.Calculator
+# Patika.dev Taximeter.Calculator
