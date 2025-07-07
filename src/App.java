@@ -21,5 +21,6 @@ public class App {
             exit = Objects.equals(sc.next(), "Y");
             System.out.println("---------");
         }
+        sc.close();
     }
 }
